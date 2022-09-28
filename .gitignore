@@ -1,0 +1,5 @@
+*.traj
+*.cif
+*.xyz
+*temp*
+POSCAR
