@@ -2,4 +2,7 @@
 *.cif
 *.xyz
 *temp*
+*.db
+*.log
+*.pckl
 POSCAR
