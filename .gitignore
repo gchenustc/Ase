@@ -5,4 +5,5 @@
 *.db
 *.log
 *.pckl
+*.png
 POSCAR
